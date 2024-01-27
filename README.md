@@ -29,6 +29,7 @@
             <li>📊 Soy entusiasta del marketing de afiliados, SEO, SEM y técnicas de eCommerce.</li>
       </li>
     </ul>
+    <!--
     <h1>
         mis sitios
     </h1>
@@ -38,6 +39,7 @@
             <li></li>
       </li>
     </ul>
+    -->
     <!--
     <h1>
         Mis redes sociales
