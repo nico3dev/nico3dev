@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -27,7 +27,7 @@
             <li>📊 Soy entusiasta del marketing de afiliados, SEO, SEM y técnicas de eCommerce.</li>
       </li>
     </ul>
-    <!--
+    
     <h1>
         mis sitios
     </h1>
@@ -45,7 +45,7 @@
     <a href="https://www.linkedin.com" rel="nofollow"><img src="https://github.com/lgzarturo/lgzarturo/raw/master/assets/linkedin.png" alt="LinkedIn" width="24" style="width: 24px; max-width: 100%;"></a>
     <a href="https://twitter.com" rel="nofollow"><img src="https://github.com/lgzarturo/lgzarturo/raw/master/assets/twitter.png" alt="Twitter" width="24" style="width: 24px; max-width: 100%;"></a>
     <a href="https://www.instagram.com/nickpl18/" rel="nofollow"><img src="https://github.com/lgzarturo/lgzarturo/raw/master/assets/instagram.png" alt="instagram" width="24" style="width: 24px; max-width: 100%;"></a>
-    -->
+    
     <br>
     <h1>
         🛠 Frameworks y herramientas
@@ -120,4 +120,4 @@
         </li>
     </ul>
 </body>
-</html>
+</html>-->
