@@ -33,8 +33,6 @@
         mis sitios
     </h1>
     <ul>
-            <li>📗 Blog personal: arthurolg.com</li>
-            <li>🥷🏻 Perfil con mi experiencia profesional: developer.arthurolg.com</li>
             <li></li>
             <li></li>
             <li></li>
