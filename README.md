@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>
-        Hola 👋🏻, bienvenido a mi perfil profesional
+        Hi 👋🏻, welcome to my professional profile
     </h1>
     <p>
         I have over five years of work experience in website development and design; I have had the privilege of working with a large number of local and international clients from all over the world.
@@ -15,12 +15,11 @@
         I have experience on WordPress, Front end, Backend, HTML/CSS, Bootstrap, JavaScript, and many other WordPress related things.
         If you want a professional website, I am the person you have been looking for, with knowledge and years of experience, and I will deliver you the BEST.
     </p>
-    <p><em>Soy una persona emprendedora que se apasiona por aprender más sobre programación, tecnología y ciencias.</em></p>
-    <p>Tengo sólidos conocimientos en diseño web, interfaces, experiencia de usuarios.
-    </p>
+    <p><em>I am a self-starter who is passionate about learning more about programming, technology and science.</em></p>
+    <p>I have solid knowledge in web design, interfaces, user experience.</p>
     <br>
     <h1>
-        Me dedico a desarrollar software
+        I am a software developer
     </h1>
     <ul>
         <li>🖌️ Web design</li>
@@ -46,14 +45,14 @@
         <li>📌 Theme and Plugin customization</li>
         <li>✏️ Web Development</li>
         <li>⚙️ WordPress Configuration</li>
-        <li>👨🏻‍💻 Actualmente trabajo en <a href="https://www.upwork.com/freelancers/~01b68c2f08b4a99c85" target="_blank">Upwork</a></li>
-        <li>🤺 Mi perfil profesional lo puedes encontrar en <a href="https://www.linkedin.com/in/nicolas-pineda/" target="_blank">linkedin</a>.</li>
-        <li>👨🏻‍🔬 Actualmente estoy aprendiendo sobre Python y Django.</li>
-        <li>📊 Soy entusiasta del marketing de afiliados, SEO, SEM y técnicas de eCommerce.</li>
+        <li>👨🏻‍💻 I am currently working in<a href="https://www.upwork.com/freelancers/~01b68c2f08b4a99c85" target="_blank">Upwork</a></li>
+        <li>🤺 You can find my professional profile at<a href="https://www.linkedin.com/in/nicolas-pineda/" target="_blank">linkedin</a>.</li>
+        <li>👨🏻‍🔬 I am currently learning about Python and Django..</li>
+        <li>📊 I am enthusiastic about affiliate marketing, SEO, SEM and eCommerce techniques.</li>
       </li>
     </ul>
     <h1>
-        mis sitios
+        my sites
     </h1>
     <ul>
             <li><a href="hhtps://Ewandro.com" target="_blank">Ewandro Magalhaes</a></li>
@@ -63,10 +62,10 @@
     </ul>
     <br>
     <h1>
-        🛠 Frameworks y herramientas
+        🛠 Frameworks and tools
     </h1>
     <p>
-        Listado de tecnologías que uso para desarrollar diversos tipos proyectos.
+        List of technologies that I use to develop different types of projects.
     </p>
     <p>
         Python, Django, Html 5, Css 3, TypeScript, WordPress, WooCommerce, MySQL, PostgreSQL
@@ -80,7 +79,7 @@
         </li>
     </ul>
     <h1>
-        🚀 API y servicios
+        🚀 API and services
     </h1>
     <ul>
         <li>
@@ -88,50 +87,50 @@
         </li>
     </ul>
     <h1>
-        👨🏻‍🎨 Creativo, especialista en programación
+        👨🏻‍🎨 Creative, programming specialist
     </h1>
     <p>
-        Tengo experiencia en el proceso de diseño de interfaces, diseño de experiencia de usuarios, fabricación de software y el proceso creativo del desarrollo de productos digitales.
+        I have experience in the interface design process, user experience design, software manufacturing and the creative process of digital product development.
     </p>
     <p>
-        Cada día me enfoco en aprender más sobre: marketing digital, SEO, procesos de identidad corporativa, diseño de campañas de marketing, gestión de redes sociales y el proceso para optimizar contenido que se distribuye en medios digitales.
+        Every day I focus on learning more about: digital marketing, SEO, corporate identity processes, marketing campaign design, social media management and the process to optimize content to be distributed in digital media.
     </p>
     <h1>
-        👨🏻‍🚀 Habilidades
+        👨🏻‍🚀 Skills
     </h1>
     <ul>
         <li>
-            Experto en programación y desarrollo de sistemas.
+            Expert in programming and systems development.
         </li>
     </ul>
     <ul>
         <li>
-            Experto en Adobe Creative Suite.
+            Adobe Creative Suite expert.
         </li>
     </ul>
     <ul>
         <li>
-            Administración de proyectos.
+            Project management.
         </li>
     </ul>
     <ul>
         <li>
-            Extensa experiencia en diseño gráfico y multimedia.
+            Extensive experience in graphic design and multimedia.
         </li>
     </ul>
     <ul>
         <li>
-            Habilidad para trabajar en equipo.
+            Ability to work in a team.
         </li>
     </ul>
     <ul>
         <li>
-            Pensamiento crítico, conceptual y analítico.
+            Critical, conceptual and analytical thinking.
         </li>
     </ul>
     <ul>
         <li>
-            Sólidos conocimientos de marketing digital, branding empresarial y diseño corporativo.
+            Solid knowledge of digital marketing, business branding and corporate design.
         </li>
     </ul>
 </body>
