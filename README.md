@@ -55,7 +55,7 @@
         my sites
     </h1>
     <ul>
-            <li><a href="hhtps://Ewandro.com" target="_blank">Ewandro Magalhaes</a></li>
+            <li><a href="https://Ewandro.com" target="_blank">Ewandro Magalhaes</a></li>
             <li><a href="https://innovacionlegalco.com/" target="_blank">innovacionlegalco</a></li>
             <li> <a href="https://knowwhatsoundsgood.com/" target="_blank">know what sounds good</a></li>
       </li>
