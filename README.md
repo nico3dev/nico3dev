@@ -45,8 +45,8 @@
         <li>📌 Theme and Plugin customization</li>
         <li>✏️ Web Development</li>
         <li>⚙️ WordPress Configuration</li>
-        <li>👨🏻‍💻 I am currently working in<a href="https://www.upwork.com/freelancers/~01b68c2f08b4a99c85" target="_blank">Upwork</a></li>
-        <li>🤺 You can find my professional profile at<a href="https://www.linkedin.com/in/nicolas-pineda/" target="_blank">linkedin</a>.</li>
+        <li>👨🏻‍💻 I am currently working in<a href="https://www.upwork.com/freelancers/~01b68c2f08b4a99c85" target="_blank"> Upwork</a></li>
+        <li>🤺 You can find my professional profile at<a href="https://www.linkedin.com/in/nicolas-pineda/" target="_blank"> linkedin</a>.</li>
         <li>👨🏻‍🔬 I am currently learning about Python and Django..</li>
         <li>📊 I am enthusiastic about affiliate marketing, SEO, SEM and eCommerce techniques.</li>
       </li>
@@ -55,9 +55,9 @@
         my sites
     </h1>
     <ul>
-            <li><a href="https://Ewandro.com" target="_blank">Ewandro Magalhaes</a></li>
-            <li><a href="https://innovacionlegalco.com/" target="_blank">innovacionlegalco</a></li>
-            <li> <a href="https://knowwhatsoundsgood.com/" target="_blank">know what sounds good</a></li>
+            <li><a href="https://Ewandro.com" target="_blank"> Ewandro Magalhaes</a></li>
+            <li><a href="https://innovacionlegalco.com/" target="_blank"> innovacionlegalco</a></li>
+            <li> <a href="https://knowwhatsoundsgood.com/" target="_blank"> know what sounds good</a></li>
       </li>
     </ul>
     <br>
