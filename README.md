@@ -17,7 +17,6 @@
     </p>
     <p><em>I am a self-starter who is passionate about learning more about programming, technology and science.</em></p>
     <p>I have solid knowledge in web design, interfaces, user experience.</p>
-    <br>
     <h1>
         I am a software developer
     </h1>
